@@ -5,3 +5,114 @@ LendingClub | Online Personal Loans at Great Rates:
 https://www.lendingclub.com/
 
 Siddhesh Google drive link: https://drive.google.com/file/d/1oT65yjpCAtRyoMX6Xa6W2ORHBPXHa6DK/view?usp=sharing
+
+
+Procedure:
+    1. Import Required Libraries
+    2. Data Overview - (39717 * 111)
+    3. Data Cleaning
+        a. Overview:
+            i. Missing Data Treatment (done)
+            ii. Standardizing Values (done)
+            iii. Remove Irrelevant Variables both w.r.t. business and data (done)
+            iv. Outliers Analysis and Treatments (done)
+            v. Derived Metrics & Binning
+
+        b. Details:
+               (UVA)
+                . Continuous:
+                    . annual_inc 
+                        -> Remove the rows with annual income greater than 95 percentile     
+                        -> Univariate analysis
+                        -> The clients whose annual income is in the range of 31K to 58K are having highest defaulters
+                    . loan_status
+                        -> Univariate analysis (UVA) (not much outliers)
+                        -> For below analysis we will consider only Charged off data (5042)
+                    . funded_amnt_inv
+                        -> UVA (not much outliers)
+                        -> The clients whose funded amount by investor is in the range of 5K to 10K are having highest defaulters
+                    . term  
+                        -> UVA
+                        -> The clients who took loan tenure of 36 months are having highest number of defaulters
+                    . installment 
+                        -> Maximum number of loan are in 2nd bin of the installments (roughly between 150 and 275 installments)
+                        -> UVA (not much outliers)
+                        -> The clients whose installments are between 131-262 are having highest defaulters
+                    . int_rate
+                        -> Maximum number of loan are in 4th bin of the interest rate (roughly between 11.75 and 14.25 interest rate)  
+                        -> UVA (not much outliers)
+                        -> The interest rate range between 10% and 15% has highest number of defaulters.
+                    . dti
+                        -> Maximum number of loan are in 3rd bin of the dti (roughly between 12 to 18) and they are moderate risky clients
+                        -> UVA (not much outliers)
+                    . revol_util
+                        -> No major difference in the utilization of revolving credit across the bins except 1st bin. At the same time there are good number of users utilizing the maximum credit which could be risky.
+                        -> UVA (not much outliers)
+                    . pub_rec (public records)
+                        -> There are around 5.5% of loan applicants who has derogatory public records and they are risky applicants
+
+
+
+            x. New dataframe created with only charged-off accounts (lend_data_co -> (5402*26))
+            
+            xi. All Graphs:
+                . (CO) Barplot -> loan_status(x) vs annual_inc(y)
+                    If annual income is less, charge-off probability is more
+                . (CO) Barplot -> loan_status(x) vs loan_amnt(y)
+                    If Loan amount is more than 10K, pobability of Charged-off is more
+                . (CA) Countplot -> grade(x)+sub-grades (different colors) vs count (y)
+                    Highest number of defaulters are in Grade B irrespective of sub-grades;
+                    Highest number of defaulters are sub-Grade B-5.
+                . (CA) Pie chart -> "home_ownership" distribution
+                    Rented home clients are more risker than all.
+                    Mortgage ownership clients are also almost equally risky to Rented home clients.
+                    So, Rent and Mortgage home ownership clients are more risky in compare to other categories
+                . (CA) Countplot -> "purpose" distribution
+                    Clients who bought loans for Debt-Consolidation purpose are more defaulters
+                . (CO) Countplot -> "annual_inc_grp" (New)
+                    The clients whose annual income is in the range of 31K to 58K are having highest defaulters
+                . (CO) Countplot -> "installment" (10 bins)
+                    The clients whose installments are between 131-262 are having highest defaulters
+                . (CO) Countplot -> annual_inc_grp (5 bins)
+                . (CO) Count plot -> on installment segments -> Installment -> installment_grp (10 bins)
+                . (CO) Count plot -> funded_amnt_inv -> (7 bins)
+                . (CO) Count plot -> dti -> "dti_grp" -> (5 bins)
+                . (CO) Count plot -> term
+                . (CA) Count plot -> verification_status
+                . (CO) Count plot -> pub_rec
+
+
+            ix. Continuous vs categorical variables: (Continued)
+                . Categorical:
+                    -> grade and sub_grade counts extraction
+                    -> home_ownership distribution
+                    -> "purpose" distribution
+                    -> "verification_status"
+                    
+
+            x. Binning (segments in ranges):
+            Creating bins (segment) on required numeric variables and using as categorical variable for analysis
+                . loan_amnt -> "loan_amnt_grp" - 5 bins - count plot
+                . installment -> 10 bins - count plot
+                . int_rate -> "int_rate_grp" -> (4 bins) count plot -> The interest rate range between 10% and 15% has highest number of defaulters.
+                . Countplot -> annual_inc_grp (5 bins)
+                . Installment -> "installment_grp" (10 bins)
+                . funded_amnt_inv -> (7 bins)
+                . dti -> "dti_grp" -> 5 bins
+
+
+
+    4. Data analysis:        
+        
+    
+        Data Analysis
+        a. Univariate Analysis
+        b. Bivariate Analysis
+        c. Multivariate Analysis
+
+
+    Insights
+    Recommendations
+
+
+
