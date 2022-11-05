@@ -12,3 +12,15 @@ Nodejs in Jupyter notebook:
     iii. npm install -g ijavascript
     iv. ijsinstall
     v. jupyter-notebook
+
+
+
+Virtual env. in mac: (https://programwithus.com/learn/python/pip-virtualenv-mac)
+1. pip3 install virtualenv 
+2. virtualenv env
+3. source env/bin/activate   
+4. deactivate env   (to deactivate)
+
+Managing python versions (Mac):
+1. pyenv versions
+2. pyenv global 3.8.0
