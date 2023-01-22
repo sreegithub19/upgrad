@@ -1,0 +1,42 @@
+Contents of the Jupyter notebook:
+
+- Importing all the important libraries
+- Data Preparation
+- - Train Data Set Creation
+- - Validation Data Set Creation
+- Visualizing the Data
+- Model 0 (with BatchNormalization layers)
+- - Creating the Model
+- - Compiling the Model
+- - Training the Model
+- - Visualizing the Training Results
+- - Observations
+- Model 1
+- - Creating the Model
+- - Compiling the Model
+- - Training the Model
+- - Visualizing the Training Results
+- - Observations
+- Data Augmentation
+- - Specifying the Augmentation
+- - Visualizing the Augmented Data
+- Model 2 (using Data Augmentation)
+- - Creating the Model
+- - Compiling the Model
+- - Training the Model
+- - Visualizing the Training Results
+- - Observations
+- Checking for Class Imbalance
+- Using Augmentor for Class Imbalance Treatment
+- - Installing Augmentor
+- - Using Augmentor
+- - Observations
+- Modelling Data using Augmentor
+- - Creating the Train Data Set
+- - Creating the Validation Data Set
+- Model 3 (using class rebalance)
+- - Creating the Model
+- - Compiling the Model
+- - Training the Model
+- - Visualizing the Training Results
+- - Observations

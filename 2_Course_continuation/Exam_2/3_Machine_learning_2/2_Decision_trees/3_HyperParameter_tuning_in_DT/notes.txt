@@ -1,0 +1,15 @@
+Links:
+
+1. https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+2. If you are comfortable with building decision trees now, we recommend you to attempt some optional model building coding exercises on the DoSelect console. The questions can be accessed here.:
+https://learn.upgrad.com/course/2880/segment/25783/154333/473980/2454057 
+
+3. Decision Tree Regression:
+https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda
+
+4. Regression Trees Calculated Example (Note that in the given example, standard deviation is computed to calculate the homogeneity of a node which is nothing but the square root of MSE).
+https://sefiks.com/2018/08/28/a-step-by-step-regression-decision-tree-example/
+
+5. Lecture notes:
+https://drive.google.com/file/d/1wAJ8yre7jO25dBTshk09HfK1L6crFIpI/edit
