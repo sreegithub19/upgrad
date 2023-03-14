@@ -2,8 +2,11 @@
 #2_Course_continuation/4_Deep_learning/_5_CNN_Industrial_application/Industry_Demo_Using_CNNs_with_Flowers_Images/flowers
 #2_Course_continuation/4_Deep_learning/_5_CNN_Industrial_application/Industry_Demo_Using_CNNs_with_X_ray_Images/CXR_data_UpGrad
 
+################################################################
 
+# Deep Learning 
 
+# Assignment: Gesture_recognition_assignment
 # Dataset link: https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 2_Course_continuation/Exam_2/4_Deep_learning/_7_Gesture_recognition_assignment/Project_data   
 2_Course_continuation/Exam_2/4_Deep_learning/_7_Gesture_recognition_assignment/secret
@@ -11,7 +14,16 @@
 2_Course_continuation/Exam_2/4_Deep_learning/_7_Gesture_recognition_assignment/GESTURE_RECOGNITION_ASSIGNMENT_SUBMISSION/model-00013-0.02464-0.99398-0.17304-0.96000.h5
 
 
+################################################################
+
 # NLP
+
 2_Course_continuation/NLP/_4_Semantic_processing/_2_Distributional_Semantics/data/aclImdb/train
 2_Course_continuation/NLP/_4_Semantic_processing/_2_Distributional_Semantics/data/aclImdb/test
 2_Course_continuation/NLP/_4_Semantic_processing/_2_Distributional_Semantics/data/glove.6B
+
+# Assignment: NLP_Case_Study__Automatic_Ticket_Classification
+# Dataset link: - https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view?usp=sharing
+2_Course_continuation/NLP/_5_NLP_Case_Study__Automatic_Ticket_Classification/complaints-2021-05-14_08_16.json 
+
+################################################################
