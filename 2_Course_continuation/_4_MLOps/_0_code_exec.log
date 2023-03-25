@@ -1,0 +1,40 @@
+2023-03-25 16:40:41,468 2+3:
+2023-03-25 16:41:20,872 2+3:5
+2023-03-25 16:46:48,445 This is a debug message
+2023-03-25 16:46:48,445 This is an info message
+2023-03-25 16:46:48,446 This is a warning message
+2023-03-25 16:46:48,446 This is an error message
+2023-03-25 16:46:48,446 This is a critical message
+2023-03-25 16:47:10,015 This is a debug message
+2023-03-25 16:47:10,016 This is an info message
+2023-03-25 16:47:10,016 This is a warning message
+2023-03-25 16:47:10,017 This is an error message
+2023-03-25 16:47:10,018 This is a critical message
+2023-03-25 16:47:28,129 This is a debug message
+2023-03-25 16:47:28,130 This is an info message
+2023-03-25 16:47:28,131 This is a warning message
+2023-03-25 16:47:28,131 This is an error message
+2023-03-25 16:47:28,132 This is a critical message
+2023-03-25 16:47:46,002 This is a debug message
+2023-03-25 16:47:46,003 This is an info message
+2023-03-25 16:47:46,003 This is a warning message
+2023-03-25 16:47:46,003 This is an error message
+2023-03-25 16:47:46,003 This is a critical message
+2023-03-25 16:48:38,818 This is a debug message
+2023-03-25 16:48:38,819 This is an info message
+2023-03-25 16:48:38,820 This is a warning message
+2023-03-25 16:48:38,820 This is an error message
+2023-03-25 16:48:38,820 This is a critical message
+2023-03-25 16:48:38,821 This is a warning message
+2023-03-25 16:48:38,822 This is an error message
+2023-03-25 16:48:38,822 This is a critical message
+2023-03-25 16:50:21,287 Error Occurred
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+ERROR:upGrad:Error Occurred
