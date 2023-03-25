@@ -255,7 +255,9 @@ Cloud:
 
 0.
 
-- git rm --cached <path_to_folder_name> -r : This is to reflect git adding changes in case folder names are modified.
+- git rm --cached <path_to_folder_name> -r : This is to reflect changes in git in case folder names of .gitignore file are modified.
+
+- git add . && git commit -m "C" && git push origin main
 
 1. git branch -m main:
 
