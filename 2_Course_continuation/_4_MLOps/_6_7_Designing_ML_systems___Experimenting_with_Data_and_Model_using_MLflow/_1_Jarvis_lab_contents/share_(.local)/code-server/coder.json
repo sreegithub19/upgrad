@@ -1,0 +1,9 @@
+{
+  "query": {
+    "folder": "/home"
+  },
+  "update": {
+    "checked": 1681834054367,
+    "version": "4.11.0"
+  }
+}

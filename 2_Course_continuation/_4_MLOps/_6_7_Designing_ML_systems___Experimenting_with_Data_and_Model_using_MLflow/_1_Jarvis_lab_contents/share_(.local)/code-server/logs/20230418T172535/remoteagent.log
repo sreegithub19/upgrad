@@ -1,0 +1,18 @@
+[2023-04-18 17:25:35.364] [remoteagent] [info] 
+
+
+
+
+[2023-04-18 17:25:35.396] [remoteagent] [info] Extension host agent started.
+[2023-04-18 17:25:36.451] [remoteagent] [info] [103.19.90.180][1649c591][ManagementConnection] New connection established.
+[2023-04-18 17:25:37.430] [remoteagent] [info] [103.19.90.180][26a609c3][ExtensionHostConnection] New connection established.
+[2023-04-18 17:25:37.459] [remoteagent] [info] [103.19.90.180][26a609c3][ExtensionHostConnection] <493> Launched Extension Host Process.
+[2023-04-18 17:26:03.136] [remoteagent] [info] [103.19.90.180][26a609c3][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 17:26:14.187] [remoteagent] [info] [103.19.90.180][38e466cc][ManagementConnection] New connection established.
+[2023-04-18 17:26:15.273] [remoteagent] [info] [103.19.90.180][95fad67d][ExtensionHostConnection] New connection established.
+[2023-04-18 17:26:15.298] [remoteagent] [info] [103.19.90.180][95fad67d][ExtensionHostConnection] <532> Launched Extension Host Process.
+[2023-04-18 17:26:15.661] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 12
+[2023-04-18 17:26:15.699] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 13
+[2023-04-18 17:26:15.714] [remoteagent] [info] [103.19.90.180][1649c591][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 17:26:40.229] [remoteagent] [info] [103.19.90.180][95fad67d][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 17:31:40.544] [remoteagent] [info] [103.19.90.180][26a609c3][ExtensionHostConnection] <493> Extension Host Process exited with code: 0, signal: null.

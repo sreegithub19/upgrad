@@ -1,0 +1,12 @@
+[2023-04-19 00:21:03.966] [remoteagent] [info] 
+
+
+
+
+[2023-04-19 00:21:04.011] [remoteagent] [info] Extension host agent started.
+[2023-04-19 00:21:18.142] [remoteagent] [info] [103.19.90.180][3497c0f7][ManagementConnection] New connection established.
+[2023-04-19 00:21:19.681] [remoteagent] [info] [103.19.90.180][293b49a4][ExtensionHostConnection] New connection established.
+[2023-04-19 00:21:19.744] [remoteagent] [info] [103.19.90.180][293b49a4][ExtensionHostConnection] <494> Launched Extension Host Process.
+[2023-04-19 00:21:51.420] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-04-19 00:22:13.635] [remoteagent] [info] [103.19.90.180][293b49a4][ExtensionHostConnection] The client has reconnected.
+[2023-04-19 00:22:13.685] [remoteagent] [info] [103.19.90.180][3497c0f7][ManagementConnection] The client has reconnected.

@@ -1,0 +1,30 @@
+[2023-04-18 17:59:28.082] [remoteagent] [info] 
+
+
+
+
+[2023-04-18 17:59:28.142] [remoteagent] [info] Extension host agent started.
+[2023-04-18 17:59:29.261] [remoteagent] [info] [103.19.90.180][4d38f244][ManagementConnection] New connection established.
+[2023-04-18 17:59:30.538] [remoteagent] [info] [103.19.90.180][cb4d8415][ExtensionHostConnection] New connection established.
+[2023-04-18 17:59:30.782] [remoteagent] [info] [103.19.90.180][cb4d8415][ExtensionHostConnection] <498> Launched Extension Host Process.
+[2023-04-18 17:59:34.006] [remoteagent] [info] [103.19.90.180][304b68ba][ManagementConnection] New connection established.
+[2023-04-18 17:59:34.948] [remoteagent] [info] [103.19.90.180][59175e3b][ExtensionHostConnection] New connection established.
+[2023-04-18 17:59:35.018] [remoteagent] [info] [103.19.90.180][59175e3b][ExtensionHostConnection] <544> Launched Extension Host Process.
+[2023-04-18 17:59:35.748] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 12
+[2023-04-18 17:59:35.834] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 13
+[2023-04-18 17:59:36.597] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 14
+[2023-04-18 17:59:36.599] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 15
+[2023-04-18 17:59:36.600] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 16
+[2023-04-18 17:59:36.601] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 17
+[2023-04-18 17:59:36.601] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 18
+[2023-04-18 17:59:36.604] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 19
+[2023-04-18 17:59:36.604] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 20
+[2023-04-18 17:59:36.605] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 21
+[2023-04-18 17:59:36.606] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 22
+[2023-04-18 17:59:36.794] [remoteagent] [info] [103.19.90.180][cb4d8415][ExtensionHostConnection] <498> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18 17:59:36.806] [remoteagent] [info] [103.19.90.180][4d38f244][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 18:11:35.154] [remoteagent] [info] [103.19.90.180][59175e3b][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 18:11:35.155] [remoteagent] [info] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.
+[2023-04-18 18:14:13.479] [remoteagent] [info] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.
+[2023-04-18 18:14:18.799] [remoteagent] [info] [103.19.90.180][59175e3b][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 18:14:24.104] [remoteagent] [info] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.

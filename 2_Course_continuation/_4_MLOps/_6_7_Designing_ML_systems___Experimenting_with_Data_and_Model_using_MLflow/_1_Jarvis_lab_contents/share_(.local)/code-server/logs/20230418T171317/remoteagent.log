@@ -1,0 +1,10 @@
+[2023-04-18 17:13:17.018] [remoteagent] [info] 
+
+
+
+
+[2023-04-18 17:13:17.051] [remoteagent] [info] Extension host agent started.
+[2023-04-18 17:13:19.345] [remoteagent] [info] [103.19.90.180][8322e0d6][ManagementConnection] New connection established.
+[2023-04-18 17:13:22.447] [remoteagent] [info] [103.19.90.180][eae63988][ExtensionHostConnection] New connection established.
+[2023-04-18 17:13:22.455] [remoteagent] [info] [103.19.90.180][eae63988][ExtensionHostConnection] <494> Launched Extension Host Process.
+[2023-04-18 17:13:35.905] [remoteagent] [info] [103.19.90.180][8322e0d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

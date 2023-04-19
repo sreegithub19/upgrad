@@ -1,0 +1,23 @@
+[16:07:33] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /usr/lib/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /usr/lib/code-server/out/node/util.js
+- /usr/lib/code-server/out/node/cli.js
+- /usr/lib/code-server/out/node/entry.js
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+[16:28:51] [103.19.90.180][99022a32][ManagementConnection] Unknown reconnection token (never seen).
+[17:26:15] RequestStore#acceptReply was called without receiving a matching request 12
+[17:26:15] RequestStore#acceptReply was called without receiving a matching request 13
+[17:59:35] RequestStore#acceptReply was called without receiving a matching request 12
+[17:59:35] RequestStore#acceptReply was called without receiving a matching request 13
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 14
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 15
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 16
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 17
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 18
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 19
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 20
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 21
+[17:59:36] RequestStore#acceptReply was called without receiving a matching request 22
+[00:21:51] No ptyHost heartbeat after 6 seconds

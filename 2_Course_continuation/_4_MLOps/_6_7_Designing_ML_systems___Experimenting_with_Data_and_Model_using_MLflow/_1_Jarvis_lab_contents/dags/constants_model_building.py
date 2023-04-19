@@ -1,0 +1,16 @@
+root_folder = "/home/"
+old_data_directory = root_folder+"data/raw/"
+new_data_directory = root_folder+"data/new/"
+intermediate_path = root_folder+"data/interim/"
+db_path = root_folder+"database/"
+db_file_name = "feature_store_v01.db"
+model_dump_path = "/home/models/"
+date_columns = ['registration_init_time','transaction_date_min','transaction_date_max','membership_expire_date_max','last_login']
+run_on = "old" #"old" or 'new'. New will append the data with older data. 
+date_transformation = False
+start_date = '2017-03-01'
+end_date = '2017-03-31'
+drfit_db_name = "drift_db_name.db"
+mlflow_tracking_uri = "http://0.0.0.0:6006"
+mlflow_experiment_name = "Model_Building_Pipeline"
+short_exp_name_identifier = "without_dateprep"

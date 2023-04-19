@@ -1,0 +1,14 @@
+[2023-04-18 16:28:50.897] [remoteagent] [info] 
+
+
+
+
+[2023-04-18 16:28:50.939] [remoteagent] [info] Extension host agent started.
+[2023-04-18 16:28:51.711] [remoteagent] [error] [103.19.90.180][99022a32][ManagementConnection] Unknown reconnection token (never seen).
+[2023-04-18 16:35:40.216] [remoteagent] [info] [103.19.90.180][8dd82016][ManagementConnection] New connection established.
+[2023-04-18 16:35:43.753] [remoteagent] [info] [103.19.90.180][b910cf14][ExtensionHostConnection] New connection established.
+[2023-04-18 16:35:43.812] [remoteagent] [info] [103.19.90.180][b910cf14][ExtensionHostConnection] <505> Launched Extension Host Process.
+[2023-04-18 16:38:07.956] [remoteagent] [info] [103.19.90.180][b910cf14][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 16:38:30.267] [remoteagent] [info] [103.19.90.180][b910cf14][ExtensionHostConnection] The client has reconnected.
+[2023-04-18 16:44:54.871] [remoteagent] [info] [103.19.90.180][8dd82016][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 16:44:54.916] [remoteagent] [info] [103.19.90.180][b910cf14][ExtensionHostConnection] <505> Extension Host Process exited with code: 0, signal: null.

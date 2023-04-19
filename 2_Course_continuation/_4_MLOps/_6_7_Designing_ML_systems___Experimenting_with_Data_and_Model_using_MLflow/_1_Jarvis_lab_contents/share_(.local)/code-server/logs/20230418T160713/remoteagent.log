@@ -1,0 +1,31 @@
+[2023-04-18 16:07:13.211] [remoteagent] [info] 
+
+
+
+
+[2023-04-18 16:07:13.212] [remoteagent] [info] Extension host agent started.
+[2023-04-18 16:07:32.520] [remoteagent] [info] [103.19.90.180][d9187c38][ManagementConnection] New connection established.
+[2023-04-18 16:07:33.856] [remoteagent] [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot find module '../build/Release/keytar.node'
+Require stack:
+- /usr/lib/code-server/lib/vscode/node_modules/keytar/lib/keytar.js
+- /usr/lib/code-server/lib/vscode/out/bootstrap-amd.js
+- /usr/lib/code-server/out/node/util.js
+- /usr/lib/code-server/out/node/cli.js
+- /usr/lib/code-server/out/node/entry.js
+[2023-04-18 16:07:35.687] [remoteagent] [info] [103.19.90.180][d4057fe2][ExtensionHostConnection] New connection established.
+[2023-04-18 16:07:35.697] [remoteagent] [info] [103.19.90.180][d4057fe2][ExtensionHostConnection] <504> Launched Extension Host Process.
+[2023-04-18 16:07:53.188] [remoteagent] [info] [103.19.90.180][d9187c38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 16:07:53.190] [remoteagent] [info] [103.19.90.180][d4057fe2][ExtensionHostConnection] <504> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18 16:08:28.122] [remoteagent] [info] [103.19.90.180][0b4fa47a][ManagementConnection] New connection established.
+[2023-04-18 16:08:31.224] [remoteagent] [info] [103.19.90.180][3f0e4984][ExtensionHostConnection] New connection established.
+[2023-04-18 16:08:31.236] [remoteagent] [info] [103.19.90.180][3f0e4984][ExtensionHostConnection] <517> Launched Extension Host Process.
+[2023-04-18 16:08:41.915] [remoteagent] [info] [103.19.90.180][3f0e4984][ExtensionHostConnection] <517> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18 16:08:41.919] [remoteagent] [info] [103.19.90.180][0b4fa47a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 16:08:43.361] [remoteagent] [info] [103.19.90.180][fa9ba0a4][ManagementConnection] New connection established.
+[2023-04-18 16:08:46.514] [remoteagent] [info] [103.19.90.180][abf53d89][ExtensionHostConnection] New connection established.
+[2023-04-18 16:08:46.525] [remoteagent] [info] [103.19.90.180][abf53d89][ExtensionHostConnection] <543> Launched Extension Host Process.
+[2023-04-18 16:09:06.737] [remoteagent] [info] [103.19.90.180][abf53d89][ExtensionHostConnection] <543> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18 16:09:06.744] [remoteagent] [info] [103.19.90.180][fa9ba0a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18 16:09:08.272] [remoteagent] [info] [103.19.90.180][99022a32][ManagementConnection] New connection established.
+[2023-04-18 16:09:11.494] [remoteagent] [info] [103.19.90.180][7ebda817][ExtensionHostConnection] New connection established.
+[2023-04-18 16:09:11.503] [remoteagent] [info] [103.19.90.180][7ebda817][ExtensionHostConnection] <572> Launched Extension Host Process.

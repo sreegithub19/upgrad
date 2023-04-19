@@ -1,0 +1,13 @@
+[2023-04-18 18:23:58.451] [exthost] [info] Extension host with pid 505 started
+[2023-04-18 18:23:58.474] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14/vscode.lock': Lock acquired.
+[2023-04-18 18:23:58.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-04-18 18:23:58.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-04-18 18:23:58.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-04-18 18:23:58.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-04-18 18:23:58.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-04-18 18:23:59.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-04-18 18:23:59.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-04-18 18:23:59.104] [exthost] [info] Eager extensions activated
+[2023-04-18 18:25:36.711] [exthost] [info] Extension host terminating: parent process 273 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2023-04-18 18:25:36.731] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-04-18 18:25:36.854] [exthost] [info] Extension host with pid 505 exiting with code 0

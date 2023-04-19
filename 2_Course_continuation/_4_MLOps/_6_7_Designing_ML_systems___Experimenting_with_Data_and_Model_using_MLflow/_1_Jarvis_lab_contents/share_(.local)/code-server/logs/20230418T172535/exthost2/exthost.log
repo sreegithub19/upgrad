@@ -1,0 +1,16 @@
+[2023-04-18 17:26:16.294] [exthost] [info] Extension host with pid 532 started
+[2023-04-18 17:26:16.312] [exthost] [error] Error: EEXIST: file already exists, open '/home/.local/share/code-server/User/workspaceStorage/-7a084e14/vscode.lock'
+[2023-04-18 17:26:16.316] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-04-18 17:26:16.320] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14/vscode.lock': The lock does not look stale, elapsed: 33579 ms, giving up.
+[2023-04-18 17:26:16.322] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14-1/vscode.lock': Lock acquired.
+[2023-04-18 17:26:16.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-04-18 17:26:16.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-04-18 17:26:16.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-04-18 17:26:16.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-04-18 17:26:16.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-04-18 17:26:16.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-04-18 17:26:17.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-04-18 17:26:17.019] [exthost] [info] Eager extensions activated
+[2023-04-18 17:55:26.844] [exthost] [info] Extension host terminating: parent process 274 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2023-04-18 17:55:26.880] [exthost] [info] Lock '/home/.local/share/code-server/User/workspaceStorage/-7a084e14-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-04-18 17:55:27.041] [exthost] [info] Extension host with pid 532 exiting with code 0

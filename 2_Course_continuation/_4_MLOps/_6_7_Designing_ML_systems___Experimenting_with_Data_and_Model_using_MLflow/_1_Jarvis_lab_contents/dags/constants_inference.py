@@ -1,0 +1,13 @@
+root_folder = "/home/"
+old_data_directory = root_folder+"data/raw/"
+new_data_directory = root_folder+"data/new/"
+db_path = root_folder+"database/"
+db_file_name = "feature_store_v02.db"
+date_columns = ['registration_init_time','transaction_date_min','transaction_date_max','membership_expire_date_max','last_login']
+ml_flow_model_path = "runs:/c8b4e75b247047fbbeebcb2be6b073ca/models"
+run_on = "new" #"old"
+append=False
+date_transformation = False
+start_date = '2017-03-01'
+end_date = '2017-03-31'
+drfit_db_name = "drift_db_name.db"

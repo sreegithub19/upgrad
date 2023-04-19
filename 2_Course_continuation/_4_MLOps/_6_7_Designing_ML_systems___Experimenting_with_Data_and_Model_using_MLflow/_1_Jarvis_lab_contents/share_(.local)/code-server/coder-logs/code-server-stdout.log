@@ -1,0 +1,120 @@
+[2023-04-18T16:07:11.131Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T16:07:11.133Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T16:07:11.184Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T16:07:11.184Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T16:07:11.184Z] info    - Authentication is disabled 
+[2023-04-18T16:07:11.185Z] info    - Not serving HTTPS 
+[16:07:13] Extension host agent started.
+[16:07:32] [103.19.90.180][d9187c38][ManagementConnection] New connection established.
+[16:07:35] [103.19.90.180][d4057fe2][ExtensionHostConnection] New connection established.
+[16:07:35] [103.19.90.180][d4057fe2][ExtensionHostConnection] <504> Launched Extension Host Process.
+[16:07:53] [103.19.90.180][d9187c38][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:07:53] [103.19.90.180][d4057fe2][ExtensionHostConnection] <504> Extension Host Process exited with code: 0, signal: null.
+[16:08:28] [103.19.90.180][0b4fa47a][ManagementConnection] New connection established.
+[16:08:31] [103.19.90.180][3f0e4984][ExtensionHostConnection] New connection established.
+[16:08:31] [103.19.90.180][3f0e4984][ExtensionHostConnection] <517> Launched Extension Host Process.
+[16:08:41] [103.19.90.180][3f0e4984][ExtensionHostConnection] <517> Extension Host Process exited with code: 0, signal: null.
+[16:08:41] [103.19.90.180][0b4fa47a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:08:43] [103.19.90.180][fa9ba0a4][ManagementConnection] New connection established.
+[16:08:46] [103.19.90.180][abf53d89][ExtensionHostConnection] New connection established.
+[16:08:46] [103.19.90.180][abf53d89][ExtensionHostConnection] <543> Launched Extension Host Process.
+[16:09:06] [103.19.90.180][abf53d89][ExtensionHostConnection] <543> Extension Host Process exited with code: 0, signal: null.
+[16:09:06] [103.19.90.180][fa9ba0a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:09:08] [103.19.90.180][99022a32][ManagementConnection] New connection established.
+[16:09:11] [103.19.90.180][7ebda817][ExtensionHostConnection] New connection established.
+[16:09:11] [103.19.90.180][7ebda817][ExtensionHostConnection] <572> Launched Extension Host Process.
+[2023-04-18T16:28:37.156Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T16:28:37.159Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T16:28:37.203Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T16:28:37.204Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T16:28:37.204Z] info    - Authentication is disabled 
+[2023-04-18T16:28:37.204Z] info    - Not serving HTTPS 
+[16:28:50] Extension host agent started.
+[16:35:40] [103.19.90.180][8dd82016][ManagementConnection] New connection established.
+[16:35:43] [103.19.90.180][b910cf14][ExtensionHostConnection] New connection established.
+[16:35:43] [103.19.90.180][b910cf14][ExtensionHostConnection] <505> Launched Extension Host Process.
+[16:38:07] [103.19.90.180][b910cf14][ExtensionHostConnection] The client has reconnected.
+[16:38:30] [103.19.90.180][b910cf14][ExtensionHostConnection] The client has reconnected.
+[16:44:54] [103.19.90.180][8dd82016][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:44:54] [103.19.90.180][b910cf14][ExtensionHostConnection] <505> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18T17:13:05.956Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T17:13:05.959Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T17:13:05.986Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T17:13:05.987Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T17:13:05.987Z] info    - Authentication is disabled 
+[2023-04-18T17:13:05.987Z] info    - Not serving HTTPS 
+[17:13:17] Extension host agent started.
+[17:13:19] [103.19.90.180][8322e0d6][ManagementConnection] New connection established.
+[17:13:22] [103.19.90.180][eae63988][ExtensionHostConnection] New connection established.
+[17:13:22] [103.19.90.180][eae63988][ExtensionHostConnection] <494> Launched Extension Host Process.
+[17:13:35] [103.19.90.180][8322e0d6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-18T17:25:26.268Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T17:25:26.271Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T17:25:26.320Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T17:25:26.320Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T17:25:26.321Z] info    - Authentication is disabled 
+[2023-04-18T17:25:26.321Z] info    - Not serving HTTPS 
+[17:25:35] Extension host agent started.
+[17:25:36] [103.19.90.180][1649c591][ManagementConnection] New connection established.
+[17:25:37] [103.19.90.180][26a609c3][ExtensionHostConnection] New connection established.
+[17:25:37] [103.19.90.180][26a609c3][ExtensionHostConnection] <493> Launched Extension Host Process.
+[17:26:03] [103.19.90.180][26a609c3][ExtensionHostConnection] The client has reconnected.
+[17:26:14] [103.19.90.180][38e466cc][ManagementConnection] New connection established.
+[17:26:15] [103.19.90.180][95fad67d][ExtensionHostConnection] New connection established.
+[17:26:15] [103.19.90.180][95fad67d][ExtensionHostConnection] <532> Launched Extension Host Process.
+[17:26:15] [103.19.90.180][1649c591][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:26:40] [103.19.90.180][95fad67d][ExtensionHostConnection] The client has reconnected.
+[17:31:40] [103.19.90.180][26a609c3][ExtensionHostConnection] <493> Extension Host Process exited with code: 0, signal: null.
+[2023-04-18T17:59:27.669Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T17:59:27.672Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T17:59:27.712Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T17:59:27.712Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T17:59:27.713Z] info    - Authentication is disabled 
+[2023-04-18T17:59:27.713Z] info    - Not serving HTTPS 
+[17:59:28] Extension host agent started.
+[17:59:29] [103.19.90.180][4d38f244][ManagementConnection] New connection established.
+[17:59:30] [103.19.90.180][cb4d8415][ExtensionHostConnection] New connection established.
+[17:59:30] [103.19.90.180][cb4d8415][ExtensionHostConnection] <498> Launched Extension Host Process.
+[17:59:34] [103.19.90.180][304b68ba][ManagementConnection] New connection established.
+[17:59:34] [103.19.90.180][59175e3b][ExtensionHostConnection] New connection established.
+[17:59:35] [103.19.90.180][59175e3b][ExtensionHostConnection] <544> Launched Extension Host Process.
+[17:59:36] [103.19.90.180][cb4d8415][ExtensionHostConnection] <498> Extension Host Process exited with code: 0, signal: null.
+[17:59:36] [103.19.90.180][4d38f244][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:11:35] [103.19.90.180][59175e3b][ExtensionHostConnection] The client has reconnected.
+[18:11:35] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.
+[18:14:13] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.
+[18:14:18] [103.19.90.180][59175e3b][ExtensionHostConnection] The client has reconnected.
+[18:14:24] [103.19.90.180][304b68ba][ManagementConnection] The client has reconnected.
+[2023-04-18T18:23:53.644Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-18T18:23:53.658Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-18T18:23:53.688Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-18T18:23:53.688Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-18T18:23:53.688Z] info    - Authentication is disabled 
+[2023-04-18T18:23:53.689Z] info    - Not serving HTTPS 
+[18:23:54] Extension host agent started.
+[18:23:55] [103.19.90.180][9d550e70][ManagementConnection] New connection established.
+[18:23:56] [103.19.90.180][74153b14][ExtensionHostConnection] New connection established.
+[18:23:57] [103.19.90.180][74153b14][ExtensionHostConnection] <505> Launched Extension Host Process.
+[2023-04-19T00:20:58.884Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-19T00:20:58.887Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-19T00:20:58.925Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-19T00:20:58.925Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-19T00:20:58.926Z] info    - Authentication is disabled 
+[2023-04-19T00:20:58.926Z] info    - Not serving HTTPS 
+[00:21:04] Extension host agent started.
+[00:21:18] [103.19.90.180][3497c0f7][ManagementConnection] New connection established.
+[00:21:19] [103.19.90.180][293b49a4][ExtensionHostConnection] New connection established.
+[00:21:19] [103.19.90.180][293b49a4][ExtensionHostConnection] <494> Launched Extension Host Process.
+[00:22:13] [103.19.90.180][293b49a4][ExtensionHostConnection] The client has reconnected.
+[00:22:13] [103.19.90.180][3497c0f7][ManagementConnection] The client has reconnected.
+[2023-04-19T00:27:18.461Z] info  code-server 4.6.1 cb5093f095aeda0468348739a25214957152fd9c
+[2023-04-19T00:27:18.464Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-04-19T00:27:18.508Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-04-19T00:27:18.508Z] info  HTTP server listening on http://0.0.0.0:7007/ 
+[2023-04-19T00:27:18.508Z] info    - Authentication is disabled 
+[2023-04-19T00:27:18.509Z] info    - Not serving HTTPS 
+[00:27:36] Extension host agent started.
+[00:27:37] [103.19.90.180][006bfa2f][ManagementConnection] New connection established.
+[00:27:38] [103.19.90.180][8d0eb220][ExtensionHostConnection] New connection established.
+[00:27:38] [103.19.90.180][8d0eb220][ExtensionHostConnection] <507> Launched Extension Host Process.
+[00:29:20] [103.19.90.180][006bfa2f][ManagementConnection] The client has reconnected.
